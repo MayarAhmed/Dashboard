@@ -1,0 +1,25 @@
+.btn{
+    border:none;
+    background-color:white;
+    font-size:18px;
+    float:right;
+    
+}
+
+.status{
+    color: #109CF1;
+    padding-left: 5px;
+
+    }
+    .inputSearch{
+        background-image: url('../../images/loupe.png'); 
+        background-position: 15px 15px;
+        background-repeat: no-repeat;
+        width: 100%;
+        font-size: 16px;
+        padding: 12px 20px 12px 40px;
+        border: 1px solid #ddd;
+        margin-bottom: 12px;
+        border-radius: 15px;
+      }
+    

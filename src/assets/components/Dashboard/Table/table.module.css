@@ -1,0 +1,15 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+  }
+  
+  tr:hover{
+    background-color: #f3f7fb;
+  }
+  
+  tr:focus{
+    background-color: yellow;
+  }
+ 

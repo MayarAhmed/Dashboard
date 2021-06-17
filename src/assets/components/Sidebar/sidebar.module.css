@@ -1,0 +1,27 @@
+.name{
+    font-weight: bold;
+    font-size:20px;
+    margin-bottom:5px;
+}
+
+.code{
+    color:#90A0B7;
+
+}
+
+.show{
+   display:inline-block;
+}
+
+.hide{
+    display:none;
+}
+
+.textInfo{
+    font-size:18px;
+    text-transform: capitalize;
+}
+.active{
+    color:#0A47C4
+
+}

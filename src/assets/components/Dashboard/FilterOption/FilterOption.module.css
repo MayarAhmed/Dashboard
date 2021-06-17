@@ -1,0 +1,18 @@
+.form-select{
+    border-radius:8px;
+}
+
+.filter{
+    float:right
+}
+
+.filter p {
+    display:inline-block;
+    font-size:18px;
+}
+
+.filter p span {
+
+    color: #109CF1;
+    margin-right: 8px;
+}
